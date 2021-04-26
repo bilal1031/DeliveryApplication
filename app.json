@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "For Learning purposes",
+    "githubUrl": "https://github.com/bilal1031/DeliveryApplication.git"
   }
 }
